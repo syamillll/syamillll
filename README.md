@@ -25,7 +25,7 @@ Hi my name is Syamil.
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aizad1997&theme=react&show_icons=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syamillll&theme=react&show_icons=true&)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syamillll&theme=react&card_width=470)
 
