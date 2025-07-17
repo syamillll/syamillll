@@ -25,15 +25,13 @@ Hi my name is Syamil.
 
 ### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=syamillll&theme=react&show_icons=true&)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=syarief02&theme=react&show_icons=true&)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syamillll&theme=react&card_width=470)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syarief02&theme=react&card_width=470)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamillll&card_width=495&langs_count=7&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syarief02&card_width=495&langs_count=7&layout=compact&theme=react)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=satriabahari&langs_count=7&layout=compact&theme=react)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=syarief02&langs_count=7&layout=compact&theme=react)
 
 <a href="https://github.com/aizad1997">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamillll&theme=radical" />
@@ -41,6 +39,8 @@ Hi my name is Syamil.
 <a href="https://github.com/aizad1997">
    <img align="top" src="https://github-readme-stats.vercel.app/api?username=syamillll&theme=radical&show_icons=true" />
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
 
 <!---
 aizad1997/aizad1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
